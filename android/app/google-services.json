@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925203969606",
+    "project_id": "tms-quiz",
+    "storage_bucket": "tms-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925203969606:android:4c717ca7dfc3490574bc47",
+        "android_client_info": {
+          "package_name": "com.tms.flutter.quiz.tms_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925203969606-2ph2sa31h9gqpmb12mqc1oq7f7ma0cg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeEGcxvDnewPNanFNvfQgFRmcNt6ocyi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925203969606-2ph2sa31h9gqpmb12mqc1oq7f7ma0cg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
